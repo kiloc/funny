@@ -22,4 +22,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* **t.txt:** add txt files ([85e12c2](https://github.com/kiloc/funny/commit/85e12c21f2760f5064e57626e92f21bca0a6cd1c))
+* **t.txt:** add txt file ([85e12c2](https://github.com/kiloc/funny/commit/85e12c21f2760f5064e57626e92f21bca0a6cd1c))
