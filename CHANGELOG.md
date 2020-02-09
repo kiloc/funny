@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/kiloc/funny/compare/v2.0.2...v2.1.0) (2020-02-09)
+
+
+### Features
+
+* **ss:** dd ([7d39d21](https://github.com/kiloc/funny/commit/7d39d212353e40dfaabfc575bda9691e3972cd35))
+
 ### [2.0.2](https://github.com/kiloc/funny/compare/v2.0.1...v2.0.2) (2020-02-09)
 
 ### [2.0.1](https://github.com/kiloc/funny/compare/v2.0.0...v2.0.1) (2020-02-09)
