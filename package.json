@@ -1,6 +1,6 @@
 {
   "name": "funny",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "```\r yarn install\r ```",
   "main": "index.js",
   "dependencies": {},
@@ -8,6 +8,7 @@
     "cz-conventional-changelog": "^3.1.0"
   },
   "scripts": {
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
