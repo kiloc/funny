@@ -1,6 +1,6 @@
 {
   "name": "funny",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "```\r yarn install\r ```",
   "main": "index.js",
   "dependencies": {},
